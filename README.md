@@ -6,7 +6,7 @@ This project demonstrates how to control LEDs on the ZCU102 FPGA board using a s
 ### Setup
 The following figure shows the overall setup, including the connection between the smartphone, web server, and FPGA board.
 
-<img src="Figure/setup.png" alt="System Setup" width="700">
+<img src="Figure/setup.png" alt="System Setup" width="500">
 
 ### Video Tutorial
 The full tutorial is divided into two parts:
